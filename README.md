@@ -118,9 +118,9 @@ Digital brain-twin model built from EEG signal data.
 
 ### 🏆 Achievements
 
-- 🥇 **Mega Code War 4.0**, HITEC University — 1st Place, Project Exhibition
+- 🥇 **Huawei ICT Competition 2024–25** — Outstanding Performance, National Round (Computing Track)
 - 🥇 **TechOn 2025**, University of Wah — 1st Place, Speed Programming
-- 🏅 **Huawei ICT Competition 2024–25** — Outstanding Performance, National Round (Computing Track)
+- 🏅 **Mega Code War 4.0**, HITEC University — 1st Place, Project Exhibition
 - 📜 **DataCamp Associate AI Engineer for Developers** — Certificate #837,799
 
 ---
