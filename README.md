@@ -70,19 +70,20 @@ Digital brain-twin model built from EEG signal data.
 
 ---
 
-### 🛠️ Tech Stack
+🛠️ Tech Stack
+<div align="center"> <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,fastapi,flask,react,nextjs,docker,git,github,mysql,aws" /> </div>
 
-<div align="center">
+AI / ML Core: Machine Learning · Deep Learning · NLP · Computer Vision · Generative AI · LLMs · RAG · Agentic AI
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,langchain,neo4j,nextjs,react,typescript,docker,aws,mysql,git" />
+LLM & GenAI Tooling
 
-</div>
+Show Image Show Image Show Image Show Image Show Image Show Image
 
-**LLM & AI:** Python · PyTorch · LangChain · RAG · ChromaDB · Fine-tuning (LoRA/PEFT)
-**Full-Stack:** Next.js · React · TypeScript · Tailwind
-**Infra & Data:** Docker · AWS (EC2, Bedrock) · SQL · Neo4j
+RAG & Vector Search
 
----
+Show Image Show Image Show Image Show Image
+
+Backend & APIs: FastAPI · Flask · REST APIs Frontend: React · Next.js · TypeScript · Streamlit MLOps & Tooling: Docker · MLflow · Pytest · Git / GitHub · CI/CD Data: SQL · Pandas · NumPy
 
 ### 📊 GitHub Stats
 
