@@ -16,11 +16,11 @@
 
 ### 🧠 About Me
 
-I build LLM and Retrieval-Augmented Generation (RAG) systems — multi-agent applications, memory-enabled chatbots, and production-style pipelines that go from prototype to deployed demo. My work spans agentic AI orchestration, vector retrieval, and full-stack integration (Next.js/React) to ship systems people can actually use. Currently focused on AI/ML, LLM, and GenAI engineering roles in Lahore, Islamabad, or remote.
+I build LLM and Retrieval-Augmented Generation (RAG) systems — multi-agent applications, memory-enabled chatbots, and production-style pipelines that go from prototype to deployed demo. My work spans agentic AI orchestration, vector retrieval, and full-stack integration to ship systems people can actually use. Currently focused on AI/ML, LLM, and GenAI engineering roles in Lahore, Islamabad, or remote.
 
-- 🔭 Currently building RAG pipelines and multi-agent AI systems
-- 🌱 Deepening my skills in LLM evaluation, guardrails, and full-stack integration (Next.js/React)
-- 💬 Ask me about LLM chatbots, RAG, or multi-agent orchestration
+- 🔭 Building multi-agent AI systems and RAG pipelines with a focus on deployment, not just notebooks
+- 🌱 Sharpening LLM evaluation, guardrails, and full-stack (Next.js/React) integration
+- 💬 Ask me about LLM chatbots, RAG architecture, or multi-agent orchestration
 - 📫 Reach me at **hamzasajjad293@gmail.com**
 
 ---
@@ -70,20 +70,38 @@ Digital brain-twin model built from EEG signal data.
 
 ---
 
-🛠️ Tech Stack
-<div align="center"> <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,fastapi,flask,react,nextjs,docker,git,github,mysql,aws" /> </div>
+### 🛠️ Tech Stack
 
-AI / ML Core: Machine Learning · Deep Learning · NLP · Computer Vision · Generative AI · LLMs · RAG · Agentic AI
+<div align="center">
 
-LLM & GenAI Tooling
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,fastapi,flask,react,nextjs,docker,git,github,mysql,aws" />
 
-Show Image Show Image Show Image Show Image Show Image Show Image
+</div>
 
-RAG & Vector Search
+**AI / ML Core:** Machine Learning · Deep Learning · NLP · Computer Vision · Generative AI · LLMs · RAG · Agentic AI
 
-Show Image Show Image Show Image Show Image
+**LLM & GenAI Tooling**
 
-Backend & APIs: FastAPI · Flask · REST APIs Frontend: React · Next.js · TypeScript · Streamlit MLOps & Tooling: Docker · MLflow · Pytest · Git / GitHub · CI/CD Data: SQL · Pandas · NumPy
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat&logo=openai&logoColor=white)
+![Mistral](https://img.shields.io/badge/Mistral-FA520F?style=flat)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-2E86FF?style=flat)
+
+**RAG & Vector Search**
+
+![ChromaDB](https://img.shields.io/badge/ChromaDB-2E86FF?style=flat)
+![Sentence Transformers](https://img.shields.io/badge/Sentence%20Transformers-2E86FF?style=flat)
+![Semantic Search](https://img.shields.io/badge/Semantic%20Search-2E86FF?style=flat)
+![Vector Search](https://img.shields.io/badge/Vector%20Search-2E86FF?style=flat)
+
+**Backend & APIs:** FastAPI · Flask · REST APIs
+**Frontend:** React · Next.js · TypeScript · Streamlit
+**MLOps & Tooling:** Docker · MLflow · Pytest · Git / GitHub · CI/CD
+**Data:** SQL · Pandas · NumPy
+
+---
 
 ### 📊 GitHub Stats
 
