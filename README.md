@@ -16,7 +16,7 @@
 
 ### 🧠 About Me
 
-I'm an AI/ML graduate from the University of Wah, focused on building practical LLM and Retrieval-Augmented Generation (RAG) systems — from multi-agent applications to memory-enabled chatbots. I like taking AI projects from a working prototype all the way to a deployed, usable demo, and I'm currently looking for entry-level AI/ML, LLM, or GenAI engineering roles in Lahore, Islamabad, or remote.
+I build LLM and Retrieval-Augmented Generation (RAG) systems — multi-agent applications, memory-enabled chatbots, and production-style pipelines that go from prototype to deployed demo. My work spans agentic AI orchestration, vector retrieval, and full-stack integration (Next.js/React) to ship systems people can actually use. Currently focused on AI/ML, LLM, and GenAI engineering roles in Lahore, Islamabad, or remote.
 
 - 🔭 Currently building RAG pipelines and multi-agent AI systems
 - 🌱 Deepening my skills in LLM evaluation, guardrails, and full-stack integration (Next.js/React)
