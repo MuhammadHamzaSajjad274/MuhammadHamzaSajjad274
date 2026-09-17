@@ -63,7 +63,7 @@ Crisis intelligence orchestrator for real-time event detection and response coor
 Digital brain-twin model built from EEG signal data.
 
 `ROC-AUC 0.98`
-🔗 **[Live Demo](https://eeg-guided-digital-brain-twin.vercel.app/)**
+
 </td>
 </tr>
 </table>
@@ -107,8 +107,8 @@ Digital brain-twin model built from EEG signal data.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MuhammadHamzaSajjad274&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHamzaSajjad274&layout=compact&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MuhammadHamzaSajjad274&show_icons=true&theme=default&hide_border=true&cache_seconds=86400" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHamzaSajjad274&layout=compact&hide_border=true&cache_seconds=86400" />
 
 <img src="https://streak-stats.demolab.com?user=MuhammadHamzaSajjad274&hide_border=true" />
 
@@ -118,9 +118,9 @@ Digital brain-twin model built from EEG signal data.
 
 ### 🏆 Achievements
 
-- 🥇 **Huawei ICT Competition 2024–25** — Outstanding Performance, National Round (Computing Track)
+- 🥇 **Mega Code War 4.0**, HITEC University — 1st Place, Project Exhibition
 - 🥇 **TechOn 2025**, University of Wah — 1st Place, Speed Programming
-- 🏅 **Mega Code War 4.0**, HITEC University — 1st Place, Project Exhibition
+- 🏅 **Huawei ICT Competition 2024–25** — Outstanding Performance, National Round (Computing Track)
 - 📜 **DataCamp Associate AI Engineer for Developers** — Certificate #837,799
 
 ---
