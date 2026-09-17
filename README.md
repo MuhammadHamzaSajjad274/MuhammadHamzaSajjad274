@@ -63,7 +63,7 @@ Crisis intelligence orchestrator for real-time event detection and response coor
 Digital brain-twin model built from EEG signal data.
 
 `ROC-AUC 0.98`
-
+🔗 **[Live Demo](https://eeg-guided-digital-brain-twin.vercel.app/)**
 </td>
 </tr>
 </table>
