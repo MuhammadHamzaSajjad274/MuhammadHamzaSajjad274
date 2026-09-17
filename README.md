@@ -58,7 +58,7 @@ Crisis intelligence orchestrator for real-time event detection and response coor
 </td>
 <td width="50%" valign="top">
 
-**🧠 [EEG-Guided Digital Brain Twin](https://github.com/MuhammadHamzaSajjad274/EEG-Guided_Digital-Brain-Twin)**
+**🧠 [EEG-Guided Digital Brain Twin](https://eeg-guided-digital-brain-twin.vercel.app/)**
 
 Digital brain-twin model built from EEG signal data.
 
