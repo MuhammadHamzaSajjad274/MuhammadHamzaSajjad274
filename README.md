@@ -103,24 +103,11 @@ Digital brain-twin model built from EEG signal data.
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MuhammadHamzaSajjad274&show_icons=true&theme=default&hide_border=true&cache_seconds=86400" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHamzaSajjad274&layout=compact&hide_border=true&cache_seconds=86400" />
-
-<img src="https://streak-stats.demolab.com?user=MuhammadHamzaSajjad274&hide_border=true" />
-
-</div>
-
----
-
 ### 🏆 Achievements
 
-- 🥇 **Mega Code War 4.0**, HITEC University — 1st Place, Project Exhibition
+- 🥇 **Huawei ICT Competition 2024–25** — Outstanding Performance, National Finalist (Computing Track)
 - 🥇 **TechOn 2025**, University of Wah — 1st Place, Speed Programming
-- 🏅 **Huawei ICT Competition 2024–25** — Outstanding Performance, National Round (Computing Track)
+- 🏅 **Mega Code War 4.0**, HITEC University — 1st Place, Project Exhibition
 - 📜 **DataCamp Associate AI Engineer for Developers** — Certificate #837,799
 
 ---
